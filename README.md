@@ -45,11 +45,4 @@ The analysis helps the pizza store understand:
 | `pizza_ingredients` | Ingredients list                  |
 | `pizza_name`     | Name of the pizza                   |
 
----
 
-## 📊 SQL Analysis Conducted
-
-### Key Metrics
-- **Total Revenue**
-```sql
-SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
