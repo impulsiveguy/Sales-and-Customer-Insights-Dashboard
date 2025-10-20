@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis (SQL Project)
+# Sales and Customer Insights Dashboard
 
 ## 📖 Overview
 This project focuses on analyzing a **Pizza Sales dataset** using **Microsoft SQL Server**.  
